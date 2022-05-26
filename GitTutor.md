@@ -13,3 +13,11 @@ https://git-scm.com/book/ru/v2/%D0%9F%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%
 ![GIT logo](https://upload.wikimedia.org/wikipedia/commons/6/66/Git-logo-black.svg)
 
 ### Конец списка
+
+# Seminar II
+
+* Создание новой ветки и переходы между ветками
+
+* Слияние веток
+
+* Конфликты при слиянии и их разрешение
